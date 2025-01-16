@@ -1,5 +1,5 @@
 # Aluraflix 
-[![Aluraflix](https://imgur.com/maZJist)](https://imgur.com/maZJist)
+![Aluraflix](https://i.imgur.com/maZJist.png)
 
 * [Descripción del proyecto](#descripción-del-proyecto)
 
