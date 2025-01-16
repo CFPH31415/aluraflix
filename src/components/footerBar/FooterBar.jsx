@@ -1,11 +1,12 @@
 import { Link, useLocation } from "react-router-dom";
-import { IoHome } from "react-icons/io5";
-import { IoMdAddCircleOutline } from "react-icons/io";
+import { IoHome, IoMdAddCircleOutline } from "react-icons/io5";
 import './FooterBar.css';
+
 function FooterBar() {
     const location = useLocation();
     const isHomePage = location.pathname === "/";
     const isNewVideoPage = location.pathname === "/newVideo";
+
     return (
         <div className="footer-bar">
             {isHomePage && (
@@ -37,4 +38,5 @@ function FooterBar() {
         </div>
     );
 }
+
 export default FooterBar;
