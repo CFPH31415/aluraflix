@@ -1,20 +1,14 @@
 # Aluraflix 
 ![Aluraflix](https://i.imgur.com/maZJist.png)
 
-* [Descripción del proyecto](#descripción-del-proyecto)
+## Descripción del proyecto
+Aluraflix es una plataforma diseñada para gestionar vídeos, con funcionalidades como listar, registrar, actualizar y eliminar videos, implementando React con JavaScript. Ayudará a poner en práctica y reforzar tus conocimientos en esta librería, tales como componentización, uso de hooks, consumo de API, rutas entre otros.
 
 * [Funcionalidades](#Funcionalidades)
 
 * [Tecnologías](#Tecnologías)
 
 * [Herramientas](#Herramientas)
-
-
-
-
-## Descripción del proyecto
-Aluraflix es una plataforma diseñada para gestionar vídeos, con funcionalidades como listar, registrar, actualizar y eliminar videos, implementando React con JavaScript. Ayudará a poner en práctica y reforzar tus conocimientos en esta librería, tales como componentización, uso de hooks, consumo de API, rutas entre otros.
-
 
 ## Funcionalidades
 
