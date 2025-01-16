@@ -1,5 +1,6 @@
 import { Link, useLocation } from "react-router-dom";
-import { IoHome, IoMdAddCircleOutline } from "react-icons/io5";
+import { IoHome } from "react-icons/io5"; // Este es correcto
+import { IoMdAddCircleOutline } from "react-icons/io"; // Cambié la importación a "io" en lugar de "io5"
 import './FooterBar.css';
 
 function FooterBar() {
