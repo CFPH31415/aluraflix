@@ -1,0 +1,202 @@
+.layer {
+    width: 100%;
+    height: 100vh;
+    background-image: url(../../assets/banner.png);
+    background-size: 49%; 
+    background-repeat: no-repeat;
+    background-position: center 1%; 
+    position: relative;
+    overflow-y: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1.5rem;
+    box-shadow: inset -0px 10px 15px -0px rgba(60, 60, 60, 0.2);
+}
+
+.gradient {
+    height: 100%;
+    width: 100%;
+    opacity: 0.8;
+    background-color: rgba(44, 62, 80, 0.8); 
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 0;
+}
+
+.content, .title, .subtitle {
+    color: #ecf0f1; 
+    background-color: transparent;
+    opacity: 1;
+    z-index: 1;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-direction: column;
+    margin-top: 4rem;
+    width: 100%;
+    padding: 1.5rem 2rem;
+}
+
+.content, .name {
+    font-size: clamp(2rem, 2.4vw, 3rem);
+    margin-top: 1rem;
+    margin-bottom: 1.5rem;
+    display: flex;
+    align-items: flex-start;
+}
+
+.name {
+    border-radius: 10px;
+    width: 20rem;
+    height: 6rem;
+    margin-top: 8rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #1abc9c; 
+    color: #ffffff;
+    font-weight: bold;
+    box-shadow: 0px 4px 8px rgba(26, 188, 156, 0.4);
+}
+
+.title {
+    font-size: clamp(1.25rem, 2.4vw, 2.875rem);
+    font-weight: bold;
+    margin-top: 1rem;
+}
+
+.subtitle {
+    margin-top: 1rem;
+    font-size: clamp(1rem, 1vw, 1.25rem);
+    opacity: 0.8;
+}
+
+.containerBanner {
+    width: 100%;
+    height: 21rem;
+    z-index: 1;
+    border-radius: 15px;
+    overflow-y: hidden;
+    border-bottom: 4px solid #f39c12; 
+    box-shadow: 2px 5px 15px rgba(243, 156, 18, 0.4);
+    transition: box-shadow 0.3s ease;
+}
+
+.containerBanner:hover {
+    box-shadow: 0 0 10px #f39c12;
+}
+
+.video {
+    width: 40.487rem; 
+    height: 100%;
+}
+
+.toggleButton {
+    margin-top: 0.5rem;
+    color: #2c3e50; 
+    background-color: transparent;
+    border: 2px solid #2c3e50;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+    padding: 0.5rem 1rem;
+    transition: all 0.3s ease;
+}
+
+.toggleButton:hover {
+    color: #ecf0f1;
+    background-color: #2c3e50;
+}
+
+.description {
+    margin-bottom: 9rem;
+    padding: 1rem;
+    background-color: #34495e; 
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(52, 152, 219, 0.1);
+}
+
+
+
+.title2 {
+    font-size: 2rem;
+    font-weight: 700; 
+    color: #ecf0f1; 
+    margin-top: 1rem;
+    text-align: center; 
+    background-color: transparent;
+    padding: 0.5rem 1rem;
+    border-radius: 8px;
+    transition: all 0.3s ease;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.title2:hover {
+    color: #f39c12; 
+    transform: scale(1.05); 
+}
+
+.subtitle2 {
+    margin-top: 0.5rem;
+    font-size: 1rem;
+    color: #bdc3c7; 
+    opacity: 0.9; 
+    text-align: center;
+    line-height: 1.5;
+    background-color: transparent;
+    padding: 0.75rem;
+    border-radius: 8px;
+    box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.1); 
+    transition: all 0.3s ease;
+}
+
+.subtitle2:hover {
+    color: #3498db; 
+    background-color: rgba(52, 152, 219, 0.1); 
+    transform: translateY(-2px); 
+}
+
+
+
+@media (max-width: 768px) {
+    .layer {
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .content {
+        position: static;
+        margin-bottom: 1.5rem;
+        padding: 0;
+    }
+
+    .containerBanner {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        height: 18rem;
+    }
+
+    .video {
+        width: 100%;
+        height: 100%;
+    }
+}
+
+@media (max-width: 1024px) {
+    .content {
+        width: 100%;
+        padding: 1rem;
+    }
+
+    .containerBanner {
+        width: 100%;
+    }
+}

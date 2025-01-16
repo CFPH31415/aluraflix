@@ -1,0 +1,100 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "title": "Qué Significa Pensar Como Programador",
+      "category": "FRONT END",
+      "photo": "https://i.ytimg.com/vi/ov7vA5HFe6w/sddefault.jpg",
+      "link": "https://www.youtube.com/embed/ov7vA5HFe6w?si=rFYWWhqKMEWzxiJn",
+      "description": "¿Cuáles son las principales características de un programador? ¿Qué habilidades y competencias debe tener alguien que quiere seguir esa carrera? En este video Christian Velasco nos habla de las principales características de un Programador."
+    },
+    {
+      "id": "3",
+      "title": "¿Qué es JavaScript?",
+      "category": "FRONT END",
+      "photo": "https://i.ytimg.com/vi/GJfOSoaXk4s/mqdefault.jpg",
+      "link": "https://www.youtube.com/embed/GJfOSoaXk4s?si=Sy4rvrikw1n4x2-o",
+      "description": "JavaScript: ¿qué es y cómo se hizo este lenguaje que genera muchas discusiones y debates entre la gente del área de desarrollo? Genesys y Gabriela nos hablan exactamente de esto en este Alura Tips."
+    },
+    {
+      "id": "4",
+      "title": "Equipo Front End",
+      "category": "FRONT END",
+      "photo": "https://i.ytimg.com/vi/rpvrLaBQwgg/maxresdefault.jpg",
+      "link": "https://www.youtube.com/embed/rpvrLaBQwgg?si=V1VLVFRuKgOI_y6-",
+      "description": "¿Estás empezando tus estudios de Programación? ¿Te interesa todo lo que es la creación de Páginas Web Desarrollo de Softwares? ¿O estás pensando en cambiar de carrera y entrar a la maravillosa area de tecnología?"
+    },
+    {
+      "id": "5",
+      "title": "Spring Framework. ¿Qué es ?",
+      "category": "BACK END",
+      "photo": "https://i.ytimg.com/vi/t-iqt1b2qqk/maxresdefault.jpg",
+      "link": "https://www.youtube.com/embed/t-iqt1b2qqk?si=HaMciLKuslok023B",
+      "description": "¿Busca un framework  para utilizar en sus proyectos? ¿Conoce Spring Framework? Spring es el framework más usado de Java. Nos ofrece herramientas que nos permiten crear proyectos más avanzados, con mejores prácticas y en menor tiempo. También posee una gran comunidad, lo que nos brinda muchísima documentación y ayuda."
+    },
+    {
+      "id": "6",
+      "title": "¿Qué es SQL y NoSQL?",
+      "category": "BACK END",
+      "photo": "https://i.ytimg.com/vi/cLLKVd5CNLc/maxresdefault.jpg",
+      "link": "https://www.youtube.com/embed/cLLKVd5CNLc?si=MYp6WnXXQvqGSPYi",
+      "description": "¿Cuáles son las diferencias entre una estructura de datos relacional (SQL) y una no relacional (NoSQL) y cuáles son las principales ventajas de cada una? Álvaro Camacho lo explica en este vídeo."
+    },
+    {
+      "id": "7",
+      "title": "Simplificando tu código en Java: Conoce los enum",
+      "category": "BACK END",
+      "photo": "https://i.ytimg.com/vi/EoPvlE85XAQ/maxresdefault.jpg",
+      "link": "https://www.youtube.com/embed/EoPvlE85XAQ?si=jfXKclbzaZEcDm83",
+      "description": "¿Escribir muchas variables del tipo constantes en Java te parece un proceso tedioso y que genera muchas líneas de código? En este Alura+ la instructora Génesys Rondón nos enseña a simplificar esta tarea usando un tipo de dato especial llamado enum."
+    },
+    {
+      "id": "cc66",
+      "title": "Oasis - Champagne Supernova (Official Video)",
+      "category": "OASIS",
+      "photo": "https://img.cdn-pictorem.com/uploads/sublim/3/sublim3_281802.jpg",
+      "link": "https://www.youtube.com/embed/tI-5uv4wryI",
+      "description": "\"Champagne Supernova,\" from Oasis's 1995 album (What's the Story) Morning Glory?, is a sweeping and enigmatic anthem that captures the band's signature blend of introspection and grandeur. Written by Noel Gallagher, the song explores themes of longing, nostalgia, and the mysteries of life, framed by poetic and surreal lyrics. Liam Gallagher's haunting vocals and the gradual build-up of the instrumentation create an epic, almost dreamlike atmosphere."
+    },
+    {
+      "id": "04cc",
+      "title": "Oasis - Stop Crying Your Heart Out (Official Video)",
+      "category": "OASIS",
+      "photo": "https://upload.wikimedia.org/wikipedia/en/5/55/Stopcryingyourheartout.jpg",
+      "link": "https://www.youtube.com/embed/dhZUsNJ-LQU",
+      "description": "\"Stop Crying Your Heart Out\" by Oasis, from their 2002 album Heathen Chemistry, is a heartfelt ballad about overcoming heartbreak and emotional pain. Written by Noel Gallagher, the song encourages resilience and healing, urging listeners not to let sorrow consume them. With powerful vocals by Liam Gallagher and anthemic instrumentation, it blends vulnerability with hope, becoming one of the band's most iconic and emotionally resonant tracks."
+    },
+    {
+      "id": "c960",
+      "title": "Oasis - Live Forever (Official HD Remastered Video)",
+      "category": "OASIS",
+      "photo": "https://i.pinimg.com/originals/0f/df/06/0fdf064d36133c893436e79893e55280.jpg",
+      "link": "https://www.youtube.com/embed/TDe1DqxwJoc",
+      "description": "\"Live Forever,\" from Oasis's 1994 debut album Definitely Maybe, is a defining Britpop anthem that celebrates hope, ambition, and defiance. Written by Noel Gallagher, the track reflects a belief in immortality through legacy and love, rejecting cynicism. With uplifting melodies and Liam Gallagher's i"
+    },
+    {
+      "id": "8301",
+      "title": "Starcraft Terran Theme 1",
+      "category": "STARCRAFT",
+      "photo": "https://i.ytimg.com/vi/G8x1LaYM600/maxresdefault.jpg",
+      "link": "https://www.youtube.com/embed/mD4GbGmvNRc",
+      "description": "The Terran theme from StarCraft is a striking and dynamic musical piece that captures the military might and rugged resilience of the Terran faction. Featuring powerful, rhythmic beats and a blend of orchestral and electronic elements, this theme evokes a sense of strategic warfare, technological advancement, and survival against the odds. "
+    },
+    {
+      "id": "1dbc",
+      "title": "Starcraft Zerg Theme 1",
+      "category": "STARCRAFT",
+      "photo": "https://i.ytimg.com/vi/AC9kgc1VF20/hq720.jpg",
+      "link": "https://www.youtube.com/embed/jrbN2y5r-vU",
+      "description": "The Zerg theme in StarCraft embodies the primal, relentless nature of the Zerg species. With eerie and unsettling soundscapes, the music conveys a sense of alien aggression, hive-mind unity, and the hunger for expansion. "
+    },
+    {
+      "id": "ff68",
+      "title": "Starcraft Protoss Theme 1",
+      "category": "STARCRAFT",
+      "photo": "https://i.ytimg.com/vi/2onBJakvorY/maxresdefault.jpg",
+      "link": "https://www.youtube.com/embed/A1Ihy4wsTQo",
+      "description": "The Protoss theme from StarCraft reflects the grandeur, mysticism, and advanced technology of the Protoss race. With sweeping orchestral arrangements and ethereal melodies, this theme conveys a sense of ancient wisdom, spiritual depth, and the power of a highly advanced civilization. "
+    }
+  ]
+}
