@@ -1,5 +1,5 @@
-
-#Challenge Aluraflix 
+# Aluraflix 
+[![Aluraflix](https://imgur.com/maZJist)](https://imgur.com/maZJist)
 
 * [Descripción del proyecto](#descripción-del-proyecto)
 
